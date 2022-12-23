@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pupattan
 - 👀 I’m interested in techology 
 - 🌱 I’m currently learning kubernetes
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on my repos
 - 📫 How to reach me : pulak.pattanayak@gmail.com
 
 <!---
