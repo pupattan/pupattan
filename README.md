@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pupattan
-- 👀 I’m interested in technology
+- 👀 I’m interested in Python development and building projects
 - 🌱 I’m currently learning kubernetes
 - 💞️ I’m looking to collaborate on my repos
 - 📫 How to reach me : pulak.pattanayak@gmail.com
